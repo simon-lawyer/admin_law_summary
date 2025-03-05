@@ -1,0 +1,158 @@
+```markdown
+# Introduction
+
+This is a manual that will help litigators better understand the nature of Canadian administrative law.
+
+## I. First principles
+
+Let us begin by reviewing some first principles...
+
+## II. The lay of the land
+
+It is also important to understand the empirical lay of the land. This manual was built after analyzing decisions from the Federal Court of Canada where an administrative law error was found. It is helpful to generally understand the types of disputes and areas of law that generate administrative law problems. I broadly summarize those here.
+
+### 1. Refugee Protection Division
+
+The Refugee Protection Division (RPD) deals with claims for refugee protection made within Canada. Many cases involve assessments of credibility, persecution, and the application of international protections. Disputes often concern the interpretation of factual evidence and the procedural fairness of the hearings.
+
+### 2. Humanitarian and Compassionate Applications
+
+Humanitarian and Compassionate (H&C) applications under subsection 25(1) of the Immigration and Refugee Protection Act involve the consideration of various personal circumstances of individuals who apply for permanent residence from within Canada. The courts assess whether such applications were reviewed with compassion and a consideration of all relevant humanitarian factors. The process is fact-intensive and requires a global assessment of the applicant’s situation.
+
+### 3. Pre-Removal Risk Assessments (PRRA)
+
+Pre-Removal Risk Assessments (PRRA) are conducted to evaluate the risk an individual might face if removed from Canada, which includes assessing risks such as torture or cruel and unusual punishment. Disputes often arise from how evidence of risk is evaluated and the procedural fairness afforded during the assessment.
+
+### 4. Work Permit Applications Under the International Mobility Program
+
+Applications for work permits under the International Mobility Program involve demonstrating that applicants meet specific eligibility criteria. Disputes may arise from the assessment of qualifications and any alleged misrepresentation by the applicant. The integrity of educational qualifications is often a focal point.
+
+### 5. Temporary Foreign Worker Program 
+
+The Temporary Foreign Worker (TFW) Program involves work permits contingent on employers demonstrating a need that cannot be filled by Canadians. These applications can become contentious when evaluating whether the offered employment meets required conditions and whether applicants sincerely intend to leave Canada post-employment.
+
+### 6. Study Permit Applications
+
+Study permit applications are evaluated to determine if applicants meet the criteria for temporary study in Canada. Disputes often arise regarding the applicant's intention to leave Canada after their studies, the reasonableness of their study plans, and the adequacy of their financial resources.
+
+# A. Reasonableness Errors
+
+A reasonableness error is a mistake in an administrative decision where the conclusion reached lacks justification, transparency, or intelligibility. It does not align with the facts or legal standards applicable to the case.
+
+## I. Transparency
+
+### 1. Illusory inconsistency
+
+An error occurs when a decision relies on false or illusory inconsistencies to ground a negative credibility finding.
+
+*Case summaries*
+
+**Portillo de Jurado v. Canada (Citizenship and Immigration), 2024 FC 1108**  
+The Court found that the Refugee Protection Division (RPD) erred in its credibility findings regarding the Applicants' fear of persecution by the MS-13 gang. The RPD's conclusion that the Applicants had not disclosed their trip to the U.S. was based on a misinterpretation of facts, leading to an illusory contradiction. The mistake in considering the trip's omission constituted a lack of transparency in the decision-making process.
+
+## II. Intelligibility
+
+### 1. Flawed credibility assessments
+
+An error occurs when a decision-maker's credibility findings are based on irrelevant legal standards or personal assumptions, thereby losing the logical chain of reasoning required for a sound decision.
+
+*Case summaries*
+
+**Portillo de Jurado v. Canada (Citizenship and Immigration), 2024 FC 1108**  
+The Court identified that the RPD's reliance on the absence of "subjective fear"—a concept pertinent only to claims under s. 96 of the IRPA—undermined the decision's intelligibility. As no Convention ground existed in the Applicants’ case, the RPD's application of this standard was improper. Such errors contributed to unfounded credibility inferences.
+
+### 2. Unintelligible assessment of establishment
+
+An error occurs when an assessment lacks clarity and coherence, leading to contradictory conclusions that undermine the decision's intelligibility.
+
+*Case summaries*
+
+**Kennedie v. Canada (Citizenship and Immigration), 2024 FC 1262**  
+The Court concluded that the immigration officer's assessment of Ms. Kennedie's establishment in Canada was unintelligible, as it described her stay as both insignificant and prolonged. The assessment also concentrated excessively on her non-compliance with immigration laws, overshadowing the positive weight of her establishment. These contradictory assessments lacked clarity and coherence, ultimately impacting the reasonableness of the decision.
+
+### 3. Unsubstantiated Allegations of Plagiarism
+
+An error occurs when a finding is based on unsubstantiated allegations of plagiarism without sufficient evidence or context to support the decision's rationale.
+
+*Case summaries*
+
+**Chung v. Canada (Citizenship and Immigration), 2024 FC 1218**  
+The Court determined that the visa officer's conclusion that the Applicant had misrepresented his academic credentials was unreasonable due to a lack of evidence and failure to fully contextualize the Applicant’s educational program. Despite allegations of plagiarism, the officer did not provide a transparent justification related to the legitimacy of the degree or the accrediting institution, leading to an unreasonable decision regarding the Applicant's admissibility.
+
+### 4. Unclear Reasoning on Study Permit Purpose
+
+An error occurs when an officer's reasoning lacks clear and coherent articulation in determining that the applicant's study permit purpose is inconsistent with a temporary stay.
+
+*Case summaries*
+
+**Tandel v. Canada (Citizenship and Immigration), 2024 FC 1487**  
+The Court found the Officer's decision unreasonable due to a lack of transparency in assessing the applicant's study plan as "general" and an "illogical study progression." The decision failed to appreciate the Applicant’s detailed explanation of her career goals linked to the study program. Furthermore, the Officer's reliance on the high cost of the study as an unreasonable motivation was inadequately justified despite the Applicant's demonstrated financial sufficiency. These deficiencies led to an unjustified and unintelligible conclusion that the Applicant would not leave Canada at the end of the study period.
+
+## III. Justification
+
+### 1. Misapplication of cumulative risk principle
+
+The principle of cumulative risk in credibility assessments should be properly applied to evaluate the overall context rather than isolate pieces of evidence separately without justification.
+
+*Case summaries*
+
+**Portillo de Jurado v. Canada (Citizenship and Immigration), 2024 FC 1108**  
+Despite documented evidence, the RPD failed to appreciate the cumulative nature of MS-13-related threats that fluctuated over time. The rejection of evidence based on assumptions of particular "fixed date" triggers showed a misapplication of cumulative assessment principles, leading to an unjustified decision.
+
+### 2. Hardship Analysis Error
+
+An error occurs when an officer evaluates a Humanitarian and Compassionate (H&C) application predominantly through a hardship lens rather than an assessment of humanitarian and compassionate considerations, as per the principles established in Kanthasamy v. Canada. This error leads to a decision that is not justified given the full scope of relevant factors.
+
+*Case summaries*
+
+**Shah v. Canada (Immigration, Refugees and Citizenship), 2024 FC 398**  
+The Court found the Officer unreasonably assessed the Applicants' H&C application by focusing on how their hardships could be mitigated post-removal rather than evaluating the humanitarian and compassionate grounds. The Officer also improperly minimized the Applicants’ establishment in Canada by emphasizing their lack of legal status, contrary to the principles in Kanthasamy and related cases.
+
+### 3. Misconstruction of Evidence in Internal Flight Alternative
+
+An error occurs when a decision-maker misconstrues key evidence related to the viability of an internal flight alternative (IFA), thereby failing to justify the decision on a core issue.
+
+*Case summaries*
+
+**Diaz Rivera v. Canada (Citizenship and Immigration), 2024 FC 1740**  
+The Court found the RPD's decision unreasonable due to its misconstruction of evidence concerning the proposed IFA in Santa Marta, Colombia. The RPD erroneously concluded that groups using the "Black Eagles" name had no presence in Santa Marta, despite evidence to the contrary from the National Documentation Package. This key error in evaluating the pervasiveness of the alleged persecutors rendered the decision unjustified.
+
+### 4. Lack of Adequate Reasoning on Financial Sufficiency
+
+An error occurs when an immigration officer fails to provide sufficient reasoning or rationale to support conclusions on the financial sufficiency of an applicant, disregarding pertinent evidence.
+
+*Case summaries*
+
+**Singh Khosa v. Canada (Citizenship and Immigration), 2024 FC 1328**  
+The Court found that the immigration officer unreasonably concluded that the applicant’s financial resources were insufficient without properly considering or explaining why the applicant’s LMIA-approved wage was inadequate, particularly when transport costs were covered by the employer. This lack of rationale resulted in an unreasonable decision, meriting judicial review.
+
+# B. Procedural Fairness Errors
+
+Procedural fairness errors occur when the procedures followed in making a decision do not comply with the principles of fairness and natural justice, such as a party’s right to know the case to meet and the right to be heard.
+
+## I. Knowing the case to meet
+
+### 1. Incompetent Representation
+
+An error of procedural fairness may arise due to incompetent representation, especially when representation affects the fairness of the hearing.
+
+*Case summaries*
+
+**Kaur v. Canada (Citizenship and Immigration), 2024 FC 1381**  
+The Court found that the Applicant's procedural fairness rights were violated due to the incompetence of her immigration consultant, Mr. Amandeep Singh, who failed to submit crucial evidence and misled the tribunal about its absence. This incompetence led to a miscarriage of justice, as it severely affected the Applicant's credibility and the outcome of her refugee claim, thereby warranting the quashing of the decision.
+
+## II. The right to be heard
+
+### 1. Failure to issue procedural fairness notice
+
+An error occurs when an officer fails to issue a procedural fairness notice, depriving an applicant of the opportunity to present additional evidence or make final submissions.
+
+*Case summaries*
+
+**Kibala v. Canada (Citizenship and Immigration), 2024 FC 1832**  
+The Court held that the procedural fairness was breached when the Officer proceeded with the PRRA decision without providing notice to the Applicant, who was awaiting additional evidence from the DRC to support his claim. This failure to communicate or issue a procedural fairness letter deprived the Applicant of a fair and meaningful opportunity to present his case, necessitating the quashing of the decision and a redetermination by another officer.
+
+# C. Other Errors
+
+*Case summaries*
+```

@@ -1,0 +1,44 @@
+# Introduction
+This is a manual that will help litigators better understand the nature of Canadian administrative law.
+## I. First principles
+Let us begin by reviewing some first principles...
+## II. The lay of the land
+It is also important to understand the empirical lay of the land. This manual was built after analyzing decisions from the Federal Court of Canada where an administrative law error was found. It is helpful to generally understand the types of disputes and areas of law that generate administrative law problems. I broadly summarize those here.
+### 1. Refugee Protection Division
+[description]
+### 2. Humanitarian and Compassionate Applications
+[description]
+# A. Reasonableness Errors
+A reasonableness error is...
+## I. Transparency
+### 1. [error]
+[high level description]
+*Case summaries*
+[case 1]
+[case 2]
+## II. Intelligibility
+### 1. [error]
+[high level description]
+*Case summaries*
+[case 1]
+[case 2]
+## III. Justification
+### 1. [error]
+[high level description]
+*Case summaries*
+[case 1]
+[case 2]
+# B. Procedural Fairness Errors
+## I. Knowing the case to meet
+### 1. [error]
+[high level description]
+*Case summaries*
+[case 1]
+[case 2]
+## II. The right to be heard
+### 1. [error]
+[high level description]
+*Case summaries*
+[case 1]
+[case 2]
+# C. Other Errors

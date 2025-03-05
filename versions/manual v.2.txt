@@ -1,0 +1,81 @@
+# Introduction
+This is a manual that will help litigators better understand the nature of Canadian administrative law.
+
+## I. First principles
+Let us begin by reviewing some first principles...
+
+## II. The lay of the land
+It is also important to understand the empirical lay of the land. This manual was built after analyzing decisions from the Federal Court of Canada where an administrative law error was found. It is helpful to generally understand the types of disputes and areas of law that generate administrative law problems. I broadly summarize those here.
+
+### 1. Refugee Protection Division
+[description]
+
+### 2. Humanitarian and Compassionate Applications
+Humanitarian and Compassionate (H&C) applications under subsection 25(1) of the Immigration and Refugee Protection Act involve the consideration of various personal circumstances of individuals who apply for permanent residence from within Canada. The courts assess whether such applications were reviewed with compassion and a consideration of all relevant humanitarian factors. The process is fact-intensive and requires a global assessment of the applicant’s situation.
+
+# A. Reasonableness Errors
+A reasonableness error is a mistake in an administrative decision where the conclusion reached lacks justification, transparency, or intelligibility. It does not align with the facts or legal standards applicable to the case.
+
+## I. Transparency
+### 1. Illusory inconsistency 
+An error occurs when a decision relies on false or illusory inconsistencies to ground a negative credibility finding. 
+
+*Case summaries*
+
+**Portillo de Jurado v. Canada (Citizenship and Immigration), 2024 FC 1108**  
+The Court found that the Refugee Protection Division (RPD) erred in its credibility findings regarding the Applicants' fear of persecution by the MS-13 gang. The RPD's conclusion that the Applicants had not disclosed their trip to the U.S. was based on a misinterpretation of facts, leading to an illusory contradiction. The mistake in considering the trip's omission constituted a lack of transparency in the decision-making process.
+
+## II. Intelligibility
+### 1. Flawed credibility assessments
+An error occurs when a decision-maker's credibility findings are based on irrelevant legal standards or personal assumptions, thereby losing the logical chain of reasoning required for a sound decision.
+
+*Case summaries*
+
+**Portillo de Jurado v. Canada (Citizenship and Immigration), 2024 FC 1108**  
+The Court identified that the RPD's reliance on the absence of "subjective fear"—a concept pertinent only to claims under s. 96 of the IRPA—undermined the decision's intelligibility. As no Convention ground existed in the Applicants’ case, the RPD's application of this standard was improper. Such errors contributed to unfounded credibility inferences.
+
+### 2. Unintelligible assessment of establishment
+An error occurs when an assessment lacks clarity and coherence, leading to contradictory conclusions that undermine the decision's intelligibility.
+
+*Case summaries*
+
+**Kennedie v. Canada (Citizenship and Immigration), 2024 FC 1262**  
+The Court concluded that the immigration officer's assessment of Ms. Kennedie's establishment in Canada was unintelligible, as it described her stay as both insignificant and prolonged. The assessment also concentrated excessively on her non-compliance with immigration laws, overshadowing the positive weight of her establishment. These contradictory assessments lacked clarity and coherence, ultimately impacting the reasonableness of the decision.
+
+## III. Justification
+### 1. Misapplication of cumulative risk principle
+The principle of cumulative risk in credibility assessments should be properly applied to evaluate the overall context rather than isolate pieces of evidence separately without justification.
+
+*Case summaries*
+
+**Portillo de Jurado v. Canada (Citizenship and Immigration), 2024 FC 1108**  
+Despite documented evidence, the RPD failed to appreciate the cumulative nature of MS-13-related threats that fluctuated over time. The rejection of evidence based on assumptions of particular "fixed date" triggers showed a misapplication of cumulative assessment principles, leading to an unjustified decision.
+
+### 2. Failure to apply the Chirwa approach
+A decision may lack justification if it fails to apply established principles of compassionate and equitable assessment.
+
+*Case summaries*
+
+**Kennedie v. Canada (Citizenship and Immigration), 2024 FC 1262**  
+The Court found that the immigration officer did not apply the Chirwa approach, which necessitates a global and compassionate assessment of personal circumstances in H&C applications. The officer's segmented and dispassionate assessment of Ms. Kennedie's past experiences and current circumstances failed to align with the equitable objectives of subsection 25(1) of the IRPA, resulting in an unjustified decision.
+
+# B. Procedural Fairness Errors
+## I. Knowing the case to meet
+### 1. [error]
+[high-level description]
+
+*Case summaries*
+[case 1]
+[case 2]
+
+## II. The right to be heard
+### 1. [error]
+[high-level description]
+
+*Case summaries*
+[case 1]
+[case 2]
+
+# C. Other Errors
+
+*Case summaries*
