@@ -7,11 +7,12 @@ Your job is to carefully read and analyze these cases. You will edit and expand 
 
 
 Here is some information to get you started.
-1. The manual can have up to three levels of hierarchy.
-2. The first level will have three sections: A. Reasonableness; B. Procedural Fairness; and C. Other.
-3. The second level is an intermediary level. Under the A. Reasonableness section, for example, there will be (i) Transparency, (ii) Intelligibility, and (iii) Justification.
-4. The third and final level will contain discrete types of error. Sometimes these will be domain specific errors. Sometimes these will be general administrative law errors.
-5. As you build out each section, do two things. First, write and expand a general description of the error. Second, beneath the general section, include paragraph length general summaries of the case you are shown.
+1. The manual has two broad sections: (a) an introduction section that summarizes first principles and reports on different types of law and areas that produce administrative law disputes and (b) a typology and hierarchy of errors.
+2. The part of the manual that deals with errors can have up to three levels of hierarchy.
+3. The first level will have three sections: A. Reasonableness; B. Procedural Fairness; and C. Other.
+4. The second level is an intermediary level. Under the A. Reasonableness section, for example, there will be (i) Transparency, (ii) Intelligibility, and (iii) Justification.
+5. The third and final level will contain discrete types of error. Sometimes these will be domain specific errors. Sometimes these will be general administrative law errors.
+6. As you build out each section, do two things. First, write and expand a general description of the error. Second, beneath the general section, include paragraph length general summaries of the case you are shown.
 
 By the end of the project, you will have produced a manual with an organized hierarchy and typology of errors.
 
